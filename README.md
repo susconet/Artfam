@@ -1,13 +1,17 @@
-# Readme
-#This is ArtfamAI
+# This is ArtfamAI
 
 # An Ethical AI For Artists and Musicians
 
-This app was devslopined and is currently being designed to create and generate ethical code automatically. The application captures user information, collects payments, and licenses the applications accordingly.
+#ArtfamAI  is currently being designed to create and generate ethical code automatically. The app idea was inspired by its creator Nick Susco II.
 
-## Purpose and Goals
+## License
+This project is licensed under the Mozilla 2 License - see (LICENSE.md) file for details.
 
-The main purpose of this application is to ensure that AI technology is developed ethically and with full respect for users' privacy. The goals of this application are:
+## Summary
+
+The main purpose of this application is to ensure that AI technology is developed ethically and with full respect for users' privacy. The applications main functions are to capture user information, collect payments from users and sponsors/donors, assist with the development of code from user inputs and license the applications accordingly.
+
+#Goals
 
 - To create a user-friendly interface that will allow users to create ethical code without difficulty.
 - To create interactive ethical lessons that will teach users about AI ethics.
@@ -26,14 +30,10 @@ The main purpose of this application is to ensure that AI technology is develope
 ## Instructions to Run the Application
 - Clone the repository to your local system.
 - Open the terminal and navigate to the cloned repository directory.
-- Run the main.py file
-
-```python
-python main.py
-```
+- Run the main-function.py file
 
 ## Contributors
 - Nick Susco II
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.l
+This project is licensed under the Mozilla 2 License - see the (LICENSE.md) file for details.
